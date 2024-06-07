@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "992846737466",
+    "firebase_url": "https://docai-e0120-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "docai-e0120",
+    "storage_bucket": "docai-e0120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992846737466:android:43cf09ebaf0dcc9fac8503",
+        "android_client_info": {
+          "package_name": "com.example.docai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHkeC6p5X-XIcq2L23PVf2SMesFVuPMSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992846737466:android:fd5efe4f5f470e3eac8503",
+        "android_client_info": {
+          "package_name": "com.example.docai_utlimatum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHkeC6p5X-XIcq2L23PVf2SMesFVuPMSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
